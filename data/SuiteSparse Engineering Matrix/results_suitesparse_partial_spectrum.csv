@@ -1,0 +1,22 @@
+Matrix_Size,Algorithm,Runtime_sec
+50,Shifted QR (ev) - 100% computed,0.0007221000005301903
+50,Divide & Conquer (evd) - 100% computed,0.0005805999999211053
+50,MRRR (evr) - Lowest 10% Computed,0.0003271000005042879
+100,Shifted QR (ev) - 100% computed,0.002022399999987101
+100,Divide & Conquer (evd) - 100% computed,0.0013887000004615402
+100,MRRR (evr) - Lowest 10% Computed,0.000869800000145915
+250,Shifted QR (ev) - 100% computed,0.04798600000049191
+250,Divide & Conquer (evd) - 100% computed,0.11093780000010156
+250,MRRR (evr) - Lowest 10% Computed,0.005987200000163284
+500,Shifted QR (ev) - 100% computed,0.18123930000001565
+500,Divide & Conquer (evd) - 100% computed,0.04169300000012299
+500,MRRR (evr) - Lowest 10% Computed,0.0236337000005733
+1000,Shifted QR (ev) - 100% computed,1.3613752999999633
+1000,Divide & Conquer (evd) - 100% computed,0.19440359999953216
+1000,MRRR (evr) - Lowest 10% Computed,0.11894029999984923
+1500,Shifted QR (ev) - 100% computed,4.416324800000439
+1500,Divide & Conquer (evd) - 100% computed,1.0055959999999686
+1500,MRRR (evr) - Lowest 10% Computed,0.42510239999955957
+2000,Shifted QR (ev) - 100% computed,10.364328900000146
+2000,Divide & Conquer (evd) - 100% computed,1.568645700000161
+2000,MRRR (evr) - Lowest 10% Computed,1.1252383999999438
